@@ -3,15 +3,15 @@
 This project predicts possible diseases based on symptoms selected by the user. It uses a machine learning model trained on a set of disease symptoms, applying the Naive Bayes classifier to diagnose diseases based on symptom patterns.
 
 ## Table of Contents
-- Project Overview
-- Features
-- Installation
-- Usage
-- Dataset
-- GUI Interface
-- Model
-- Results
-- License
+- [Project Overview](#ProjectOverview)
+- [Features](#Features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Dataset](#Dataset)
+- [GUI Interface](#GUIInterface)
+- [Model](#Model)
+- [Results](#Result)
+- [License](#License)
 ## Project Overview 
 This application leverages machine learning to predict diseases based on user-selected symptoms. The GUI allows users to input symptoms, and the model outputs a predicted disease based on the input data.
 ## Features
