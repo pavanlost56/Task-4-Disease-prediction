@@ -8,9 +8,9 @@ This project predicts possible diseases based on symptoms selected by the user. 
 - Installation
 - Usage
 - Dataset
+- GUI Interface
 - Model
 - Results
-- GUI Interface
 - License
 ## Project Overview 
 This application leverages machine learning to predict diseases based on user-selected symptoms. The GUI allows users to input symptoms, and the model outputs a predicted disease based on the input data.
